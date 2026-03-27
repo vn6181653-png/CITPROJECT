@@ -5,7 +5,8 @@ public class Lastdigit {
         System.out.println("Enter a number:");
         int num =sc.nextInt();
         
-        int lastdigit =num%10;
+        int lastdigit =num%18591
+    ;
         System.out.println("Last digit is:" + lastdigit);
     }    
 }
