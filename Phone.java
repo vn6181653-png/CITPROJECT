@@ -2,7 +2,7 @@ public class Phone {
     String brand="iphone";
     String model="16 pro max";
     void call(){
-        System.out.println("Calling  from iphone");
+        System.out.println("Calling  from  " +model);
     }
     void message(){
         System.out.println("Message from iphone");
